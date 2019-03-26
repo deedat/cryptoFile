@@ -40,7 +40,7 @@ public class TheClient {
         private final static byte P2_EMPTY = (byte)0x00;
 
 	static final String FILENAME               = "students.png";
-	static final int DMS               = 120;
+	static final int DMS               = 128;
 
 
 	public TheClient() {
