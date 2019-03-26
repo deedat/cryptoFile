@@ -1,0 +1,1 @@
+NB: Cryptofile marche au max avec 120 octets
